@@ -1,0 +1,2 @@
+# PractAzure
+Practice on Azure
